@@ -2,6 +2,11 @@
 
 Flutter developer assignment for XcelPros.
 
+# Application Screenshots
+
+<img src="https://github.com/ervinod/xcelpros_task/blob/master/screenshots/screenshot1.jpg" width="300"><img src="https://github.com/ervinod/xcelpros_task/blob/master/screenshots/screenshot2.jpg" width="300"><img src="https://github.com/ervinod/xcelpros_task/blob/master/screenshots/screenshot3.jpg" width="300"><img src="https://github.com/ervinod/xcelpros_task/blob/master/screenshots/screenshot4.jpg" width="300"><img src="https://github.com/ervinod/xcelpros_task/blob/master/screenshots/screenshot5.jpg" width="300">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
